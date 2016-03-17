@@ -29,6 +29,7 @@
     width:160px;
     background-color: white;
     float:left;
+    margin-right: -220px;
 }
 .l_sub img{
     width:80px;
@@ -36,14 +37,10 @@
 }
 .c_sub{
     background-color: white;
-    float:left;
-    padding: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    position: absolute;
-    top:20px;
-    left:220px;
-    right:140px;
+    float: left;
+    margin-right:140px;
+    margin-left:220px;
+    padding:20px;
 }
 .c_sub p{
     font-size: 20px;
@@ -53,6 +50,7 @@
     width:80px;
     background-color: white;
     float:right;
+    margin-left: -140px;
 }
 .r_sub img{
     width:80px;
